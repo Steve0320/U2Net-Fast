@@ -30,5 +30,5 @@ exclude = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/Steve0320/U2Net-Fast"
+Issues = "https://github.com/Steve0320/U2Net-Fast/issues"
